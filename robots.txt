@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://futurekaformula-netizen.github.io/futurekaformula.github.io/sitemap.xml
