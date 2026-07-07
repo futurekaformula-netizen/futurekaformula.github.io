@@ -1,0 +1,27 @@
+{
+  "name": "Future Ka Formula",
+  "short_name": "Future Formula",
+  "description": "Future Ka Formula - Financial Planning, Life Insurance, Health Insurance, Child Education Planning, Retirement Planning and Investment Solutions by Gaurav Srivastava.",
+  "start_url": "/futurekaformula.github.io/",
+  "scope": "/futurekaformula.github.io/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#002b5b",
+  "orientation": "portrait",
+  "lang": "en-IN",
+
+  "icons": [
+    {
+      "src": "assets/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
